@@ -11,15 +11,17 @@
     
 </body>
 </html>
+
 ________________________________________________________________________________________________
-1. Basic Structure Tags
+1. Basic Structure Tags-
 
 <html>...</html> – Root element that wraps the entire HTML document.
 <head>...</head> – Contains metadata, title, and links to resources.
 <title>...</title> – Sets the title of the webpage shown on the browser tab.
 <body>...</body> – Contains all visible content of the webpage.
+
 ________________________________________________________________________________________________
-2. Text & Content Tags
+2. Text & Content Tags-
 
 <h1>...</h1> to <h6>...</h6> – Define headings from largest to smallest.
 <p>...</p> – Represents a paragraph of text.
@@ -27,8 +29,9 @@ ________________________________________________________________________________
 <hr> – Creates a horizontal line (no closing tag).
 <span>...</span> – Inline container for styling small text portions.
 <div>...</div> – Block-level container to group elements.
+
 ________________________________________________________________________________________________
-3. Text Formatting Tags
+3. Text Formatting Tags-
 
 <b>...</b> – Makes text bold without semantic importance.
 <strong>...</strong> – Makes text bold with importance.
@@ -39,16 +42,18 @@ ________________________________________________________________________________
 <small>...</small> – Displays text in smaller size.
 <sup>...</sup> – Displays superscript text.
 <sub>...</sub> – Displays subscript text.
+
 ________________________________________________________________________________________________
-4. Link & Media Tags
+4. Link & Media Tags-
 
 <a>...</a> – Creates a hyperlink to another resource.
 <img> – Displays an image (no closing tag).
 <audio>...</audio> – Embeds audio content.
 <video>...</video> – Embeds video content.
 <source> – Specifies media source (no closing tag).
+
 ________________________________________________________________________________________________
-5. List Tags
+5. List Tags-
 
 <ul>...</ul> – Creates an unordered list.
 <ol>...</ol> – Creates an ordered list.
@@ -56,8 +61,9 @@ ________________________________________________________________________________
 <dl>...</dl> – Creates a description list.
 <dt>...</dt> – Defines a term in a description list.
 <dd>...</dd> – Describes a term in a description list.
+
 ________________________________________________________________________________________________
-6. Table Tags
+6. Table Tags-
 
 <table>...</table> – Creates a table.
 <tr>...</tr> – Defines a table row.
@@ -66,8 +72,9 @@ ________________________________________________________________________________
 <thead>...</thead> – Groups table header content.
 <tbody>...</tbody> – Groups main table content.
 <tfoot>...</tfoot> – Groups table footer content.
+
 ________________________________________________________________________________________________
-7. Form Tags
+7. Form Tags-
 
 <form>...</form> – Creates a form for user input.
 <input> – Accepts user input (no closing tag).
@@ -78,8 +85,9 @@ ________________________________________________________________________________
 <button>...</button> – Creates a clickable button.
 <fieldset>...</fieldset> – Groups related form elements.
 <legend>...</legend> – Provides a caption for a fieldset.
+
 ________________________________________________________________________________________________
-8. Semantic HTML5 Tags
+8. Semantic HTML5 Tags-
 
 <header>...</header> – Represents introductory content.
 <nav>...</nav> – Contains navigation links.
@@ -88,8 +96,9 @@ ________________________________________________________________________________
 <aside>...</aside> – Contains side content.
 <footer>...</footer> – Represents footer content.
 <main>...</main> – Contains the main content of the page.
+
 ________________________________________________________________________________________________
-9. Meta & Script Tags
+9. Meta & Script Tags-
 
 <meta> – Provides metadata (no closing tag).
 <link> – Links external resources like CSS (no closing tag).
